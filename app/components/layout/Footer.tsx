@@ -12,7 +12,8 @@ export default function Footer() {
         {/* Contact info centered */}
         <div className="flex space-x-8 text-sm text-gray-600">
           <a
-            href="mailto:your.email@example.com"
+            target="_blank"
+            href="mailto:abbie.s.barton@gmail.com"
             className="transition-colors duration-300"
             onMouseEnter={(e) => {
               const target = e.currentTarget as HTMLAnchorElement
