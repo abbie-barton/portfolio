@@ -1,0 +1,25 @@
+{
+  "job1": {
+    "title": "Web Developer",
+    "company": "BYU Studies",
+    "dateRange": "July 2023 - Present",
+    "description": [
+      "Work closely with cross-functional teams and customers to define project milestones, develop the technical roadmap, and estimate timelines for feature rollouts and upgrades.",
+      "Serve as Scrum leader, facilitating daily stand-ups and sprint planning meetings to resolve conflicts, encourage creative solutions, and maintain clear communication for efficient progress across the team.",
+      "Lead the front-end migration of the company's website from WordPress to a modern stack, utilizing React and JavaScript to improve user experience and increase website speed by 10+ times.",
+      "Coordinate with others on the backend development using Python and AWS, enhancing scalability and reliability of the website's infrastructure.",
+      "Streamline development processes by identifying inefficiencies and implementing solutions, reducing load times and increasing website uptime, which led to improved user engagement and retention."
+    ]
+  },
+  "job2": {
+    "title": "Software Engineering Intern",
+    "company": "YouScience",
+    "dateRange": "February 2023 - June 2023",
+    "description": [
+        "Developed and refined React components while learning the framework on the job, contributing to feature builds in an agile environment.",
+        "Collaborated with a distributed team across multiple locations, fostering strong communication and teamwork in a remote-first setting.",
+        "Adapted quickly to new technologies and workflows, enabling meaningful contributions to full-stack development projects.",
+        "Partnered with an experienced mentor to gain in-depth knowledge of the tech stack and development processes, bridging theoretical knowledge with practical application."
+    ]
+  }
+}
